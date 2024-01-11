@@ -9,4 +9,4 @@
 <a href="https://github.com/WilsonCamini17/Git-e-Github/blob/de387f5da98add11980440cacfd7a56761d8da61/22-Shopping%20.html"><img src="https://github.com/WilsonCamini17/We-Care-Responsive/blob/main/assets/We%20care.desktop.png" alt="imageproject"/></a>
 
 <h2>Mobile Mode</h2>
-<a href="https://github.com/WilsonCamini17/Git-e-Github/blob/0e2b0a874978c428b6f1c5f2e5f169b7db716860/22-Shopping%20.css"><img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/mobile.shopping.png?raw=true" alt="imageproject"/></a>
+<a href="https://github.com/WilsonCamini17/Git-e-Github/blob/0e2b0a874978c428b6f1c5f2e5f169b7db716860/22-Shopping%20.css"><img src="https://github.com/WilsonCamini17/We-Care-Responsive/blob/main/assets/We%20care.Mobile.png" alt="imageproject"/></a>
