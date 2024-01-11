@@ -9,4 +9,4 @@
 <img src="https://github.com/WilsonCamini17/We-Care-Responsive/blob/main/assets/We%20care.desktop.png" alt="imageproject"/>
 
 <h2>Mobile Mode</h2>
-<a href="https://github.com/WilsonCamini17/Git-e-Github/blob/0e2b0a874978c428b6f1c5f2e5f169b7db716860/22-Shopping%20.css"><img src="https://github.com/WilsonCamini17/We-Care-Responsive/blob/main/assets/We%20care.Mobile.png" alt="imageproject"/></a>
+<img src="https://github.com/WilsonCamini17/We-Care-Responsive/blob/main/assets/We%20care.Mobile.png" alt="imageproject"/>
