@@ -1,0 +1,122 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat';
+}
+header{
+    margin-top: 44px;
+    margin-left: 76px;
+    word-spacing: 23px;
+    color: #989D9C; 
+    font-size: 24px;  
+    font-weight: 600;
+     cursor: pointer;
+}
+.header:active{
+    opacity: 0.5;
+}
+button{
+    background: #665AE1; 
+    border-radius: 20.50px;
+    width: 130px;
+    height: 41px;
+    color: white;
+    font-size: 24px; 
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+button:active{
+    opacity: 0.5;
+}
+main{
+    display: inline-block;
+    position: relative;
+}
+section{
+    display: inline-block;
+    position: relative;
+}
+img{
+    margin: 144px 86px 0px 125px;
+}
+h1{
+    color: rgba(81, 81, 81, 1);
+    font-size: 100px;
+    font-weight: 900; 
+    width: 513px;
+    margin-top: 138px;
+}
+h2{
+    color: #515151; 
+    font-size: 58px; 
+    font-weight: 500;
+    width: 448px;
+}
+p{
+ color: #848484;
+ font-size: 24px;
+ font-weight: 400;
+ width: 515px;
+ margin: 32px 0px 65px 0px;
+}
+.FINALBUTTON{
+      position: relative; 
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+      border-radius: 50px; 
+      width: 239px; 
+      height: 64px;
+      background: #ADFF00; 
+      color: black; 
+      font-size: 28px;
+}
+@media screen and (max-width: 900px) and (orientation: portrait ) {
+    main{
+        width: 100vw;
+        height: 100vh;
+    }
+    header{
+        display:none;
+    }
+    img{
+        width: 354px;
+        margin-top: 149px;
+        margin-bottom: 0px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    section{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h1{
+        margin-top: 24px;
+        font-size: 50px;
+        width: 263px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h2{
+        width: 232px;
+        font-size: 30px;
+        margin-top: 7px;
+        margin-bottom: 17px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    p{
+        display: none;
+    }
+    .FINALBUTTON{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 133px;
+    }
+    
+}
