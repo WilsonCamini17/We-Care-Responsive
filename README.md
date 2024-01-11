@@ -1,4 +1,4 @@
-<h1>We Care</h1>
+<h1>We Care About Your Pet</h1>
 <br>
 <p>Esse Projeto foi desenvolvido no curso <a href="https://rodolfomori.com.br/devclub">DevClub</a> com a finalidade de testar o conhecimento aprendido no módulo, ele é responsivo e utiliza as seguintes tecnologias:</p>
 
@@ -7,7 +7,7 @@
 
 <br>
 <h2>Shopping</h2>
-<a href="https://github.com/WilsonCamini17/Git-e-Github/blob/de387f5da98add11980440cacfd7a56761d8da61/22-Shopping%20.html"><img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/desktop.shopping.png?raw=true" alt="imageproject"/></a>
+<a href="https://github.com/WilsonCamini17/Git-e-Github/blob/de387f5da98add11980440cacfd7a56761d8da61/22-Shopping%20.html"><img src="https://github.com/WilsonCamini17/We-Care-Responsive/blob/main/assets/We%20care.desktop.png" alt="imageproject"/></a>
 
 <br>
 <h2>Mobile Mode</h2>
